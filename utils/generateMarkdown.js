@@ -1,20 +1,22 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `#Title
+  
+  ${data.title}
 
   ## Description
 
  ${data.description}
   
   ## Table of Contents 
+
+  ${data.Tableofcontents}
   
-  
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
   
   ## Installation
+
+  ${data.Installation}
+
   
   What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
   

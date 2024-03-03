@@ -7,13 +7,23 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const questions = [
     {
         type: 'input',
-        name: 'title',
+        name: 'Title',
         message: 'What is the title of your project?',
       },
       {
         type: 'input',
-        name: 'description',
+        name: 'Description',
         message: 'Give a brief description of your project?',
+      },
+      {
+        type: 'input',
+        name: 'Table of contents',
+        message: 'What content headings will be in your README file?',
+      },
+      {
+        type: 'input',
+        name: 'Installation',
+        message: 'What are the steps required to install your project?',
       },
 ];
 
