@@ -43,7 +43,7 @@ const questions = [
       {
         type: 'input',
         name: 'Tests',
-        message: 'what type of license will this project use',
+        message: 'Enter test instructions',
       },
       {
         type: 'input',
