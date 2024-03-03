@@ -25,6 +25,31 @@ const questions = [
         name: 'Installation',
         message: 'What are the steps required to install your project?',
       },
+      {
+        type: 'input',
+        name: 'Usage',
+        message: 'Provide link to deployed page',
+      },
+      { 
+        type: 'input',
+        name: 'Contributing',
+        message: 'Who contributed on this project',
+      },
+      {
+        type: 'input',
+        name: 'license',
+        message: 'what type of license will this project use',
+      },
+      {
+        type: 'input',
+        name: 'Tests',
+        message: 'what type of license will this project use',
+      },
+      {
+        type: 'input',
+        name: 'Questions',
+        message: 'Enter an email address for questions',
+      },
 ];
 
 // function to write README file
