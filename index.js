@@ -48,8 +48,15 @@ const questions = [
       {
         type: 'input',
         name: 'Questions',
-        message: 'Enter an email address for questions',
+        message: 'Enter your GitHub Username',
       },
+      {
+        type: 'input',
+        name: 'Questions',
+        message: 'Enter your email address',
+      },
+];
+
 ];
 
 // function to write README file

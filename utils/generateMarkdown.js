@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `
   
-  ##Title
+  ## Title
   
   ${data.Title}
 
@@ -41,6 +41,13 @@ function generateMarkdown(data) {
   ## Questions
 
   ${data.Questions}
+
+  ## Questions
+
+  Please reach out via email if you have any questions 
+
+  ${data.Questions}
+
 
 
 
