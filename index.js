@@ -18,7 +18,7 @@ const questions = [
       {
         type: 'input',
         name: 'Table of contents',
-        message: 'What content headings will be in your README file?',
+        message: 'What heading will be in your table of contents?',
       },
       {
         type: 'input',
@@ -33,7 +33,7 @@ const questions = [
       { 
         type: 'input',
         name: 'Contributing',
-        message: 'Who contributed on this project',
+        message: 'How can developers contribute to this project',
       },
       {
         type: 'input',
@@ -49,11 +49,6 @@ const questions = [
         type: 'input',
         name: 'Questions',
         message: 'Enter your GitHub Username',
-      },
-      {
-        type: 'input',
-        name: 'Questions',
-        message: 'Enter your email address',
       },
 ];
 
