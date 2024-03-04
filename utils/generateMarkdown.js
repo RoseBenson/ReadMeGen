@@ -4,7 +4,7 @@ function generateMarkdown(data) {
   
   ##Title
   
-  ${data.title}
+  ${data.Title}
 
   ## Description
 
