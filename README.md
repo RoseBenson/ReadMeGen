@@ -2,6 +2,8 @@
 
 ![README.md Generator](./assets/readmegen.JPG)
 
+- PLEASE FIND EXAMPLE README.md IN LISTED DOCS UNDER tempREADME.md.
+
 ## Description
 I have created a READme.md generator command line app, which when given imput by the user generates a unique and quick READme.md file for their project. 
 
