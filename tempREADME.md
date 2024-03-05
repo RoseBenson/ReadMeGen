@@ -1,30 +1,33 @@
 
   
-  ## Title
-  
-  undefined
+  # ReadMeGen
 
   ## Description
 
-  ggg
+  Dynamiclly create ReadMe
   
   ## Table of Contents 
 
- - [Installation](#installation)
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+ - [Contributing](#Contributing)
+ - [Lisence](#Lisence)
+ - [Tests](#Tests)
+ - [Questions](#Questions)
   
   
   ## Installation
 
-  ggg
+  NPM Install
 
   
   ## Usage
 
-  ggg
+  To create a README.md file
 
   ## Contributing
 
-  
+  Rosemary Benson
  
   ## License
   
@@ -34,11 +37,11 @@
   
   ## Tests
 
-  ggg
+  NO
   
   ## Questions
 
-Please reach out via email:gggg if you have any questions.
+Please reach out via email:Rosebens@outlook.com if you have any questions.
 
- [My GitHub](https://gggg) This is my GitHub if you would like to look at my other work
+ [My GitHub](https://RoseBenson) This is my GitHub if you would like to look at my other work
 

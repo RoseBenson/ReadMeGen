@@ -1,6 +1,6 @@
 # ReadMeGen
 
-![README.md Generator]()
+![README.md Generator](./assets/readmegen.JPG)
 
 ## Description
 I have created a READme.md generator command line app, which when given imput by the user generates a unique and quick READme.md file for their project. 
@@ -21,11 +21,11 @@ When a user enters a description, installation instructions, usage information, 
 
 #### Access the application on: - 
 
-[Link to video explaning usage]()
+[Link to video explaning usage](https://drive.google.com/file/d/1-2c3QsJ9nRLHKfzKOVjYTB1b_AavrWRL/view)
 
 #### Apperance of the command line:
 
-![Appearance of command line]()
+![Appearance of command line](./assets/readmegen.JPG)
 
 
 ## Installation
