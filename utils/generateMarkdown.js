@@ -2,47 +2,50 @@
 function generateMarkdown(data) {
   return `
   
-  ## Title
-  
-  ${data.Title}
+  # ${data.title}
 
   ## Description
 
-  ${data.Description}
+  ${data.description}
   
   ## Table of Contents 
 
-  ${data.Tableofcontents}
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+ - [Contributing](#Contributing)
+ - [Lisence](#Lisence)
+ - [Tests](#Tests)
+ - [Questions](#Questions)
   
   
   ## Installation
 
-  ${data.Installation}
+  ${data.installation}
 
   
   ## Usage
 
-  ${data.Usage}
+  ${data.usage}
 
   ## Contributing
 
-  ${data.Contributing}
+  ${data.contributing}
  
   ## License
   
-  ![badmath](https://img.shields.io/license-${data.license}-green.svg)
+  ![GitHub](https://img.shields.io/badge/license-${data.license}-green.svg)
   
   ${data.license}
   
   ## Tests
 
-  ${data.Tests}
+  ${data.tests}
   
   ## Questions
 
-Please reach out via email if you have any questions 
+Please reach out via email:${data.email} if you have any questions.
 
-  ${data.Questions}
+ [My GitHub](https://${data.github}) This is my GitHub if you would like to look at my other work
 
 `;
 }
